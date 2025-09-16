@@ -19,20 +19,34 @@
   </a>
 </p>
 
-<!--
-**nmswe/nmswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-Here are some ideas to get you started:
+```yaml
+name: Nemanja Majstorovic
+current_job: Senior Data Engineer
+education:
+  [
+    "Master in Data Science & AI",
+    "Bachelor in Computer Science",
+  ]
+company: Spindox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+fields_of_interests in the Tech industry:
+  [
+    "Software & Data Engineering",
+    "GenAI",
+    "Cloud computing",
+    "UI/UX"
+  ]
+technical_background:
+  [
+    "Senior Data Engineer",
+    "Data & AI Engineer",
+    "Data Engineer",
+    "Full Stack Developer"
+  ]
+  
+hobbies: ["Basketball & Sports  🏀", "Boardgames ♘","Writing ✍🏻", "Chilling 🍃"]
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=_custom_gradient:0:6495ed,25:87cefa,50:fffacd,75:ffa07a,100:fa8072&height=100&section=footer"/>
