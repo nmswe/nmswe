@@ -19,6 +19,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a>
+    <img height="150" src="https://github.com/nmswe/nmswe/blob/main/images/cowboy-bebop.gif"/>
+  </a>
+</p>
+
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
