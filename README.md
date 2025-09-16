@@ -26,8 +26,8 @@ name: Nemanja Majstorovic
 current_job: Senior Data Engineer
 education:
   [
-    "Master in Data Science & AI",
-    "Bachelor in Computer Science",
+    "Master's in Data Science & AI",
+    "Bachelor's in Computer Science"
   ]
 company: Spindox
 
