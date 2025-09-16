@@ -3,9 +3,12 @@
 </p>
 
 <h1 align="center">
-  Welcome to my repository 👾
+  Welcome to my repository 👽
 </h1>
 
+<h2 align="center">
+  Let’s talk and share thoughts 💡
+</h2>
 
 <p align="center">
   <a href="https://it.linkedin.com/in/nemanja-majstorovic-b47302206">
