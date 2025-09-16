@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff,ffd700,ff8c00,ff0000&text=Hey%20Everyone!🐦‍🔥&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=_custom_gradient:0:1e90ff,25:00bfff,50:ffd700,75:ff8c00,100:ff4500&text=🐦‍🔥Hey%20Everyone!🐦‍🔥&height=100&section=header&fontColor=8a2be2"/>
 </p>
+
+
+
+
 
 
 <!--
