@@ -4,11 +4,14 @@
 
 
 
-
-<a href="https://it.linkedin.com/in/nemanja-majstorovic-b47302206">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-
+<p align="center">
+  <a href="https://medium.com/@nemanja.majstorovic.swe">
+    <img height="50" src="https://github.com/nmswe/nmswe/blob/main/images/linkedin_logo.png"/>
+  </a>
+  <a href="https://it.linkedin.com/in/nemanja-majstorovic-b47302206">
+    <img height="50" src="https://github.com/nmswe/nmswe/blob/main/images/medium_logo.png"/>
+  </a>
+</p>
 
 <!--
 **nmswe/nmswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
