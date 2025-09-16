@@ -46,7 +46,8 @@ technical_background:
     "Full Stack Developer"
   ]
   
-hobbies: ["Basketball & Sports  🏀", "Boardgames ♘","Writing ✍🏻", "Chilling 🍃"]
+hobbies: ["Basketball & Sports in general 🏀", "Boardgames ♘", "Writing ✍🏻", "Chilling 🍃"]
+```
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=_custom_gradient:0:6495ed,25:87cefa,50:fffacd,75:ffa07a,100:fa8072&height=100&section=footer"/>
