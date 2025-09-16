@@ -1,10 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=_custom_gradient:0:1e90ff,25:00bfff,50:ffd700,75:ff8c00,100:ff4500&text=🐦‍🔥Hey%20Everyone!🐦‍🔥&height=100&section=header&fontColor=8a2be2"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=_custom_gradient:0:1e90ff,25:00bfff,50:ffd700,75:ff8c00,100:ff4500&text=🐦‍🔥Hey%20Everyone!🐦‍🔥&height=100&section=header&fontColor=ffffff&strokeColor=8a2be2&strokeWidth=2"/>
 </p>
 
 
 
 
+<a href="https://it.linkedin.com/in/nemanja-majstorovic-b47302206">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
 
 
 <!--
