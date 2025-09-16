@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=color=ff0000,ffff00,0000ff&text=Hey Everyone!🐦‍🔥&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff,ffd700,ff8c00,ff0000&text=Hey%20Everyone!🐦‍🔥&height=100&section=header"/>
 </p>
+
 
 <!--
 **nmswe/nmswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
