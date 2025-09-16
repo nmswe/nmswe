@@ -37,7 +37,7 @@ education:
   ]
 company: Spindox
 
-fields_of_interests in the Tech industry:
+fields_of_interests: #in the Tech industry
   [
     "Software & Data Engineering",
     "GenAI",
