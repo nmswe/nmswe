@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=_custom_gradient:0:1e90ff,25:00bfff,50:ffd700,75:ff8c00,100:ff4500&text=🐦‍🔥Hey%20Everyone!🐦‍🔥&height=100&section=header&fontColor=ffffff&strokeColor=8a2be2&strokeWidth=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=_custom_gradient:0:6495ed,25:87cefa,50:fffacd,75:ffa07a,100:fa8072&text=🐦‍🔥Hey%20Everyone!🐦‍🔥&height=100&section=header&fontColor=ffffff&strokeColor=rgba(177,156,217,0.6)&strokeWidth=2"/>
 </p>
+
 
 
 
@@ -27,3 +28,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=_custom_gradient:0:6495ed,25:87cefa,50:fffacd,75:ffa07a,100:fa8072&height=100&section=footer"/>
+</p>
+
+
