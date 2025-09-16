@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=_custom_gradient:0:6495ed,25:87cefa,50:fffacd,75:ffa07a,100:fa8072&text=🐦‍🔥Hey%20Everyone!&height=100&section=header&fontColor=ffffff&strokeColor=rgba(177,156,217,0.6)&strokeWidth=2"/>
 </p>
 
-
+<h1 align="center">
+  Welcome to my repository 👾
+</h1>
 
 
 <p align="center">
