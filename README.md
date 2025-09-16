@@ -5,10 +5,10 @@
 
 
 <p align="center">
-  <a href="https://medium.com/@nemanja.majstorovic.swe">
+  <a href="https://it.linkedin.com/in/nemanja-majstorovic-b47302206">
     <img height="50" src="https://github.com/nmswe/nmswe/blob/main/images/linkedin_logo.png"/>
   </a>
-  <a href="https://it.linkedin.com/in/nemanja-majstorovic-b47302206">
+  <a href="https://medium.com/@nemanja.majstorovic.swe">
     <img height="50" src="https://github.com/nmswe/nmswe/blob/main/images/medium_logo.png"/>
   </a>
 </p>
